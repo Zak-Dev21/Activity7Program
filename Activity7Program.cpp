@@ -23,7 +23,7 @@ int main()
 	names[1] = second_name;
 	names[2] = third_name;
 
-	cout << names[0];
+	cout << endl << names[0];
 
 
 
