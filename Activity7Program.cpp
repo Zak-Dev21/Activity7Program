@@ -19,6 +19,7 @@ int main()
 	cout << "Give me one last name of your choice: " << endl; // ask user to input data
 	cin >> third_name;
 
+	// storing inputs given in the names of size 4 array
 	names[0] = first_name;
 	names[1] = second_name;
 	names[2] = third_name;
